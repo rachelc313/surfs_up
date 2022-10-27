@@ -8,4 +8,23 @@ You have some savings you're willing to invest, but we'll need some real investo
 
 He's extremely serious about this. He invested in a surf shop early in his career. However, he didn't ask for any weather analysis and that early venture was rained out of existence. W. Avy knows you've been learning how to properly analyze data and asks if you can run some analytics on a weather data set he has from the very island where you'd like to open your shop, the beautiful Awahoo."
 
+An analysis was completed of the "hawaii.sqllite" file. The purpose of this analysis is the following:
+
+1. Determine the number of temperatures measured.
+2. Determine the mean temperatures for June and December.
+3. Determine the minimum and temperatures for June and December.
+
 ## Resources
+ - Data Sources: hawaii.sqlite
+ - Software: Jupyter Notebook, Python 3.7.13, Postgres SQL 11, pgAdmin4
+
+## Results:
+The analysis of the hawaii.sqllite data show that: 
+
+ - 
+ -
+ -
+
+## Summary
+
+I would perform the following queries to -- rain data.
