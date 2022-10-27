@@ -35,4 +35,5 @@ The analysis of the hawaii.sqllite data show that:
 
 There are 183 more temperatures measured in June than December. This variance should be looked into. The summary of each data set may be skewed. With that being said, the data shows that on average June is about three degrees warmer than December. If we assume that this data is accurate, it can be deduced that the temperatures in this location are typically "mild." The minimum temperature in June is twelve degrees warmer than the minimum temperature in December. Even so, the minimum temperature is still "mild" relative to other colder areas. Research could be done on what temperature is too cold for surfing and at what temperature do ice cream sales drop.
 
-I would perform the following queries to further answer the concerns of W. Avy. 
+To further answer W. Avy's concerns, I wouuld write a query that retrieves the precipitation data from the measurement table. I would use this and get the summary statistics for a brief analysis of the rain data. I would then create a table then subsequent DataFrame by writing a query to filter the precipitation data by month. I would then create a line graph to visualize the data. Since his earlier venture was rained out, he will want to know what the precipitation trends are for this location.
+
