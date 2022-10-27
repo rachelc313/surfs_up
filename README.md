@@ -10,8 +10,8 @@ He's extremely serious about this. He invested in a surf shop early in his caree
 
 An analysis was completed of the "hawaii.sqllite" file. The purpose of this analysis is the following:
 
-1. Determine the number of temperatures measured.
-2. Determine the mean temperatures for June and December.
+1. Determine the number of temperatures measured for June and December.
+2. Determine the average temperatures for June and December.
 3. Determine the minimum and temperatures for June and December.
 
 ## Resources
@@ -21,10 +21,18 @@ An analysis was completed of the "hawaii.sqllite" file. The purpose of this anal
 ## Results:
 The analysis of the hawaii.sqllite data show that: 
 
- - 
- -
- -
+ - The number of temperatures measured:
+    - June: 1700
+    - December: 1517
+ - The average temperatures:
+    - June: 74.94
+    - December: 71.04
+ - The minimum temperatures:
+    - June: 64.00
+    - December: 56.00
 
 ## Summary
 
-I would perform the following queries to -- rain data.
+There are 183 more temperatures measured in June than December. This variance should be looked into. The summary of each data set may be skewed. With that being said, the data shows that on average June is about three degrees warmer than December. If we assume that this data is accurate, it can be deduced that the temperatures in this location are typically "mild." The minimum temperature in June is twelve degrees warmer than the minimum temperature in December. Even so, the minimum temperature is still "mild" relative to other colder areas. Research could be done on what temperature is too cold for surfing and at what temperature do ice cream sales drop.
+
+I would perform the following queries to further answer the concerns of W. Avy. 
